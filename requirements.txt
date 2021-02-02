@@ -17,7 +17,7 @@ beautifulsoup4==4.9.1
 bitarray==1.2.2
 bkcharts==0.2
 blaze==0.11.3
-bleach==3.1.5
+bleach==3.3.0
 bob==5.0.0
 bokeh @ file:///tmp/build/80754af9/bokeh_1593187586470/work
 boto==2.49.0
