@@ -149,7 +149,7 @@ pycparser==2.20
 pycrypto==2.6.1
 pycurl==7.43.0.5
 pyflakes==2.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 pylint @ file:///tmp/build/80754af9/pylint_1592496044040/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
