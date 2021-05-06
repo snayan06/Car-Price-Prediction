@@ -51,7 +51,7 @@ et-xmlfile==1.0.1
 fastcache==1.1.0
 filelock==3.0.12
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 fsspec==0.7.4
 future==0.18.2
 gevent @ file:///tmp/build/80754af9/gevent_1593009958030/work
